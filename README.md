@@ -138,6 +138,6 @@ See also the list of [contributors](https://github.com/your/project/contributors
 
 * NTU School of Computer Science & Engineering
 * Lee Kong Chian School of Medicine Population Health Science Team
-* Lionell Yip - For technical guidance [frusdelion](https://github.com/frusdelion)
+* Lionell Yip ([frusdelion](https://github.com/frusdelion)) - For almost all the technical guidance!
 
 
