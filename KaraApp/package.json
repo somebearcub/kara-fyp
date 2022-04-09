@@ -15,7 +15,7 @@
     "core-decorators": "^0.20.0",
     "expo": "^31.0.2",
     "joi-react-native": "^2.0.1",
-    "moment": "^2.24.0",
+    "moment": "^2.29.2",
     "prop-types": "^15.6.2",
     "react": "16.5.0",
     "react-joi-validation": "^1.7.0",
