@@ -73,7 +73,7 @@
   version "4.0.0"
   resolved "https://registry.yarnpkg.com/@feathersjs/commons/-/commons-4.0.0.tgz#ae49bae4025c35aaeb9aacb6a0c27a3d1def5062"
 
-"@feathersjs/configuration@^2.0.4":
+"@feathersjs/configuration@^2.0.6":
   version "2.0.6"
   resolved "https://registry.yarnpkg.com/@feathersjs/configuration/-/configuration-2.0.6.tgz#b53e0361eba80ac2ed5708e22db1e546397e8729"
   dependencies:
